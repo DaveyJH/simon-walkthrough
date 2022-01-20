@@ -1,0 +1,25 @@
+{
+  "name": "simon-walkthrough",
+  "version": "1.0.0",
+  "description": "<!-- ![Multiple Device Demo](./readme-content/images/multi-device.png) -->\r ## Live Site\r <!-- [nameOfSite](siteURL)) -->\r ## Repository\r <!-- [repoLocation](repoLocation) -->\r ***",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaveyJH/simon-walkthrough.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DaveyJH/simon-walkthrough/issues"
+  },
+  "homepage": "https://github.com/DaveyJH/simon-walkthrough#readme",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  },
+  "dependencies": {
+    "@types/jest": "^27.4.0"
+  }
+}
